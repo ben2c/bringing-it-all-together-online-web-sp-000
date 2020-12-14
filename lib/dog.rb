@@ -68,4 +68,5 @@ class Dog
       dog = self.create({:name => name, :breed => breed})
     end
     dog
+  end
 end
